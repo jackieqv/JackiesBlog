@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+First of all, thank you so much for reading my blog! I am really excited to have built this blog as a platform to share my projects and interests with the world out there. I am inspired by so many things and hope to inspire others here too. This blog is already a project itself because I acquired some coding skills to build this site and it is a continuous project for improving my skills in that area. So don't be surprised to see changes over time. Also read about my journey of how I set up this blog in one of my first blog posts! I really want to to use this blog as a platform to show all the things I am passionate about. These are topics about learning&development, tech trends and economy, health & well-being, crafting projects, cooking recipes, Chinese culture, etc..
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Last, but not least, I want to give a huge thanks to my husband Sven who inspires me daily and who sparked my interest for coding.
