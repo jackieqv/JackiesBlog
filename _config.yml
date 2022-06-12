@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Janine Quach"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Just a regular girl aspiring to develop into a learning&development consultant."
+  bio    : "Just a regular girl sharing stuff."
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
