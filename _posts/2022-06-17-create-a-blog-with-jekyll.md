@@ -25,12 +25,12 @@ Prerequisites to get started to build your website with Jekyll and Github:
 - Create an account on Github.com for hosting your website on <a href="https://pages.github.com">GitHub Pages</a>
 
 Here are the high-level steps I took to build my website with Jekyll:
-1. Decide for a Jekyll theme: This <a href="https://github.com/topics/jekyll-theme">link</a> provides different themes to choose from
-2. Clone the theme from the Github repository: I used the remote theme starter of <a href="https://github.com/mmistakes/mm-github-pages-starter">Minimal Mistakes</a> and cloned it as a preconfigured theme to my own repository
-3. Clone your online repository to your local folder
-4. Install Ruby: Use the documentation on <a href="https://jekyllrb.com/docs/step-by-step/01-setup/">Step by Step Tutorial</a> to set up the installation
-5. Configuration: Open your local folder with the cloned repository in Visual Studio Code and replace the sample content with your own and configure as necessary. Test your configuration on the local host
-6. Deployment: I used GitHub to host my site which is freely hosted on GitHub's `github.io` domain; Push to GitHub and publish on GitHub Pages. You can also host it under your custom domain or you can use other host providers
+1. Decide for a Jekyll theme: This <a href="https://github.com/topics/jekyll-theme">link</a> provides different themes to choose from.
+2. Clone the theme from the Github repository: I used the remote theme starter of <a href="https://github.com/mmistakes/mm-github-pages-starter">Minimal Mistakes</a> and cloned it as a preconfigured theme to my own repository.
+3. Clone your online repository to your local folder.
+4. Install Ruby: Use the documentation on <a href="https://jekyllrb.com/docs/step-by-step/01-setup/">Step by Step Tutorial</a> to set up the installation.
+5. Configuration: Open your local folder with the cloned repository in Visual Studio Code and replace the sample content with your own and configure as necessary. Test your configuration on the local host.
+6. Deployment: I used GitHub to host my site which is freely hosted on GitHub's `github.io` domain; Push to GitHub and publish on GitHub Pages. You can also host it under your custom domain or you can use other host providers.
 
 For me, it's a wonderful first project to get into coding and there's still so much to unpack and learn. I learned the most through trial and error and searching for solutions in developer forums. It has been challenging but also fun.
 Here are the sources that helped me most:
