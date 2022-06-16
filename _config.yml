@@ -61,16 +61,33 @@ plugins:
 author:
   name   : "Janine Quach"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Just a regular girl sharing stuff."
+  bio    : "Just a regular girl doing everything, everywhere, all at once - while she can :sweat_smile:"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/janine-quach-9a6302107/"
+    
+    - label: "Twitter"
+      icon: "fab fa-fw-twitter"
+      url: "https://twitter.com/JackeiQV"
+
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/janine.quach.3"
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/janine-quach-9a6302107/"
+
+    - label: "Twitter"
+      icon: "fab fa-fw-twitter"
+      url: "https://twitter.com/JackeiQV"
+
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/janine.quach.3"
+
 defaults:
   # _posts
   - scope:

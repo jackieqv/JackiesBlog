@@ -1,6 +1,6 @@
 ---
 title: "Post: Quote"
-published: true
+published: false
 categories:
   - Blog
 tags:
