@@ -37,7 +37,7 @@ Here are the sources that helped me most:
 - <a href="https://talk.jekyllrb.com/">Jekyll Forum</a>
 - <a href="https://stackoverflow.com/questions/tagged/jekyll">Stack Overflow Forum</a>
 
-I will post about certain challenges I've encountered in the future and I might add some other features and improvements into this blog as well over time.
+I will post about certain challenges I've encountered and I might add some other features and improvements into this blog as well over time.
 
 Stay tuned :heartbeat:
 
