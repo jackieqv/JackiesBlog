@@ -9,7 +9,7 @@ tags:
   - GitHub
   - Jekyll
   - minimalmistakes
-date: 2016-06-17 00:35 +0100
+date: 2022-06-17 00:54 +0100
 ---
 Hi all, my first post will be about my experience of how I set up this blog with Jekyll and Github. 
 First things first, there are many ways to create a blog. You can use website builders like Jimdo or Wix, where you build your website in minutes using online drag and drop tools. Another very popular choice is WordPress, an online content management system (CMS), which is more complex but you basically use an editor on the graphical user interface to build it and you can add pre-built plug-ins to extend functions on your website. No programming skills needed. 
