@@ -9,7 +9,7 @@ tags:
   - GitHub
   - Jekyll
   - minimalmistakes
-image: /assets/images/screenshot-editing.PNG
+image: /assets/images/screenshot-editing.png
 date: 2022-06-23 00:02 +0100
 ---
 Hi all, my first post will be about my experience of how I set up this blog with Jekyll and Github. 
