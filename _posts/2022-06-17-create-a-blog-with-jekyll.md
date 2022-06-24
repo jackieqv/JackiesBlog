@@ -9,7 +9,7 @@ tags:
   - GitHub
   - Jekyll
   - minimalmistakes
-image: /assets/images/screenshot-editing.png
+image: /assets/images/screenshot-editing.PNG
 date: 2022-06-23 00:02 +0100
 ---
 Hi all, my first post will be about my experience of how I set up this blog with Jekyll and Github. 
@@ -40,7 +40,7 @@ Here are the sources that helped me most:
 Check out this awesome blog on how to build a static website with Jekyll and Github Pages (it's amazingly explained!): <a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#command-line-tools-suite-">Programming Historian</a>
 
 Here is where my editing happens (in Visual Studio code with Markdown files): 
-![image](/assets/images/screenshot-editing.png)
+![image](/assets/images/screenshot-editing.PNG)
 
 
 I will post about certain challenges I've encountered in my future posts and I might add other features and improvements into this blog as well over time.
