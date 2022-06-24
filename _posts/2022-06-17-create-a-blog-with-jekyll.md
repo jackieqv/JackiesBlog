@@ -9,14 +9,14 @@ tags:
   - GitHub
   - Jekyll
   - minimalmistakes
+image: /assets/images/screenshot_editing.png
 date: 2022-06-16 00:54 +0100
 ---
 Hi all, my first post will be about my experience of how I set up this blog with Jekyll and Github. 
 First things first, there are many ways to create a blog. You can use website builders like Jimdo or Wix, where you build your website in minutes using online drag and drop tools. Another very popular choice is WordPress, an online content management system (CMS), which is more complex but you basically use an editor on the graphical user interface to build it and you can add pre-built plug-ins to extend functions on your website. No programming skills needed. 
 If you are looking for a easy way to implement your own blog without learning how to code, these options above are for you.
 
-For myself, I wanted to gain technical skills and learn coding, so I took the <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">HTML, CSS, and Javascript for Web Developers</a> course on coursera.org, already having in mind to build my own website afterwards (also I really recommend the course! It was a great mix of theory and hands-on assignments). After completing the course, I was still quite overwhelmed to build up a website from scratch, so I began researching and stumbled upon Jekyll. 
-Jekyll is a static site generator written in Ruby and found the blogging theme of <a href="https://mmistakes.github.io/minimal-mistakes/">minimal mistakes</a>, which I really liked and wanted to use as a template for my blog. The ready-made theme can be cloned from GitHub to your repository and local computer and makes it easier to start right away. Another strong argument for me to build my blog with Jekyll was that it works well with GitHub Pages and allows me to deploy my site for free. 
+For myself, I wanted to gain technical skills and learn coding, so I took the <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">HTML, CSS, and Javascript for Web Developers</a> course on coursera.org, already having in mind to build my own website afterwards (also I really recommend the course! It was a great mix of theory and hands-on assignments). After completing the course, I was still quite overwhelmed to build up a website from scratch, so I began researching and stumbled upon Jekyll, a static site generator written in Ruby. I found the blogging theme of <a href="https://mmistakes.github.io/minimal-mistakes/">minimal mistakes</a>, which I really liked and wanted to use as a template for my blog. The ready-made theme can be cloned from GitHub to your repository and local computer and makes it easier to start right away. Another strong argument for me to build my blog with Jekyll was that it works well with GitHub Pages and allows me to deploy my site for free. 
 
 It was quite a challenge for me to work with the command line for the installation and set up. It was a lot of trial and error for the installation and configuration but when it worked it's like magic is happening :satisfied:
 
@@ -37,7 +37,14 @@ Here are the sources that helped me most:
 - <a href="https://talk.jekyllrb.com/">Jekyll Forum</a>
 - <a href="https://stackoverflow.com/questions/tagged/jekyll">Stack Overflow Forum</a>
 
-I will post about certain challenges I've encountered and I might add some other features and improvements into this blog as well over time.
+Check out this awesome blog on how to build a static website with Jekyll and Github Pages (it's amazingly explained!): <a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#command-line-tools-suite-">Programming Historian</a>
+
+Here is where my editing happens (in Visual Studio code with Markdown files): 
+![image](/assets/images/screenshot_editing.png)
+
+
+I will post about certain challenges I've encountered in my future posts and I might add other features and improvements into this blog as well over time.
+
 
 Stay tuned :heartbeat:
 
