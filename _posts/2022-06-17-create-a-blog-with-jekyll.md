@@ -36,13 +36,13 @@ Here are the sources that helped me most:
 - <a href="https://talk.jekyllrb.com/">Jekyll Forum</a>
 - <a href="https://stackoverflow.com/questions/tagged/jekyll">Stack Overflow Forum</a>
 
-Check out this awesome blog on how to build a static website with Jekyll and Github Pages (it's amazingly explained!): <a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#command-line-tools-suite-">Programming Historian</a>
+Also check out this awesome blog on how to build a static website with Jekyll and Github Pages (it's amazingly explained!): <a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#command-line-tools-suite-">Programming Historian</a>
 
 Here is where my editing happens (in Visual Studio code with Markdown files): 
 <img src="{{site.baseurl | prepend: site.url}}assets/images/screenshot-editing.png" alt="screenshot-editing" />
 
 
-I will post about certain challenges I've encountered in my future posts and I might add other features and improvements into this blog as well over time.
+I will post about certain challenges I've encountered in the future and I might add other features and improvements into this blog as well over time.
 
 
 Stay tuned :heartbeat:
