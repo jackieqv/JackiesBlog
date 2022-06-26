@@ -14,10 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 #_config.yml
-
-url: 'https://jackieqv.github.io/' # your main domain
-baseurl: 'jackiesblog/' # if you're using custom domain keep this blank example: baseurl: ''
-
+url: 'https://jackieqv.github.io' # your main domain
+baseurl: '/jackiesblog' # if you're using custom domain keep this blank example: baseurl: ''
 
 title: Jackies Blog
 email:
