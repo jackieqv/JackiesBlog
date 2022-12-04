@@ -1,6 +1,6 @@
 ---
 title: "Creating a digital Christmas card"
-published: false
+published: true
 categories:
   - DIY
   - Holiday greetings
