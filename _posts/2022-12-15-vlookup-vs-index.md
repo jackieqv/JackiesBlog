@@ -30,7 +30,7 @@ Index: 	 =INDEX($G$4:$H$6;MATCH(A4;$G$4:$G$6;0);2)
 
 Using vlookup()
 Let us first use the vlookup() function to fill in the column of Salary. Generally, the vlookup() function is used to look up a value in the leftmost column of a table and then returns a value in the same row from a different table that can be specified. The v in vlookup() stands for vertical.
-![image-title-here](/assets/images/vlookup%20vs%20index_2.png){:class="img-responsive"}
+<img src="{{site.baseurl | prepend: site.url}}assets/images/vlookup%20vs%20index_1.png"/>
 
 After typing in the vlookup() function into the first salary cell of the example, Excel already shows us the required parameters to set up this function.
 
