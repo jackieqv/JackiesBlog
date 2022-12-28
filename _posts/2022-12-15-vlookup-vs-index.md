@@ -28,7 +28,8 @@ Vlookup: =VLOOKUP(A4;$G$4:$H$6;2;FALSE)
 Index: 	 =INDEX($G$4:$H$6;MATCH(A4;$G$4:$G$6;0);2)
 ```
 
-####Using vlookup()
+Using vlookup()
+---
 Let us first use the vlookup() function to fill in the column of Salary. Generally, the vlookup() function is used to look up a value in the leftmost column of a table and then returns a value in the same row from a different table that can be specified. The v in vlookup() stands for vertical.
 <img src="{{site.baseurl | prepend: site.url}}assets/images/vlookup%20vs%20index_2.png"/>
 
@@ -53,7 +54,8 @@ The final result using the vlookup() function should look like this:
 <img src="{{site.baseurl | prepend: site.url}}assets/images/vlookup%20vs%20index_5.png"/>
 
 
-####Using index()
+Using index()
+---
 We will solve the same problem with the index function now. The index function is used to return a value or a reference of a cell at the intersection of a particular row and column in a given range. Let’s first look at the parameters of the function again.
 <img src="{{site.baseurl | prepend: site.url}}assets/images/vlookup%20vs%20index_6.png"/>
 
